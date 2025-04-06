@@ -1,4 +1,4 @@
-%% processHeuristicCVRPPlot_combined_deep_modified.m
+%% processHeuristicCVRPPlot_combined_deep_modified
 % Improved ALNS-based CVRP solver complete code example (updateOperatorScores removed and route txt saving)
 clc; clear; close all;
 opengl('save','software');
